@@ -1,0 +1,28 @@
+body {
+	background: #000;
+}
+
+#main {
+	width:859px;
+	height:562px;
+	margin: 0 auto;
+	text-align: center;
+	background: url('../images/board.png');
+}
+
+#main ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#main ul li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+#main .player1 {
+	padding-top: 400px;
+	margin: 0 auto;
+}
